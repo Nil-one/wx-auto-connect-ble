@@ -1,0 +1,25 @@
+{
+  "pages":[
+    "index/index",
+    "beacon/beacon"
+  ],
+ 
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "index/index",
+        "text": "低能耗蓝牙"
+      },
+      {
+        "pagePath": "beacon/beacon",
+        "text": "蓝牙信标"
+      }
+    ]
+  }
+}

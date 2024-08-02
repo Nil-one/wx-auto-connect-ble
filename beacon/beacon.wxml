@@ -1,0 +1,7 @@
+<view class="container">
+  <button bindtap="startBluetooth">启动蓝牙</button>
+  <button bindtap="stopBluetooth">停止蓝牙</button>
+  <view>
+    <text>连接状态: {{connected ? '已连接' : '未连接'}}</text>
+  </view>
+</view>
