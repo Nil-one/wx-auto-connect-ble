@@ -1,0 +1,1 @@
+小程序低能耗蓝牙自动连接，在app.js中去切换制定设备的serviceId，deivecId
